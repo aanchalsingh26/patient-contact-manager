@@ -140,4 +140,4 @@ Developer: Anchal
 
 GitHub: https://github.com/aanchalsingh26/
 
-Email: anchalkumari6490@gmail.com.com
+Email: anchalkumari6490@gmail.com
